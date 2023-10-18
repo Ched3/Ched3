@@ -1,5 +1,5 @@
 Hello
-My name is Edison Chen He/Him
+My name is Edison Chen He/Him\n
 I am learning to code. I currently know Java and Python
 I am now learning HTML, CSS and Javascript
 
