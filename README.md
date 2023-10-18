@@ -1,7 +1,7 @@
 Hello
-My name is Edison Chen He/Him\n
-I am learning to code. I currently know Java and Python
-I am now learning HTML, CSS and Javascript
+My name is Edison Chen He/Him. 
+I am learning to code. I currently know Java and Python. 
+I am now learning HTML, CSS and Javascript. 
 
 I have over 6000 hours in hypixel skyblock IGN: Ched2
 
