@@ -2,7 +2,6 @@ Hello
 My name is Edison Chen He/Him. 
 I currently know Java, Python, HTML, CSS, Javascript and C. 
 
-I have over 6000 hours in hypixel skyblock IGN: Ched2
 
 <!--
 **Ched3/Ched3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
