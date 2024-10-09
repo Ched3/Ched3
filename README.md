@@ -1,8 +1,6 @@
 Hello
 My name is Edison Chen He/Him. 
-I currently know Java, Python, HTML, CSS, Javascript, SQL and C. 
-
-Currently developing Wynnguessr
+I currently know Python, Javascript, Java, HTML, CSS, SQL, C, Kotlin. 
 
 
 <!--
