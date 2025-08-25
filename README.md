@@ -3,14 +3,14 @@
 </p>
 
 <h1 align="center">Hi, I'm Edison Chen 👋</h1>
-<p align="center">Computer Science & Economics Student | Full-Stack Developer | AI & Data Visualization Enthusiast</p>
+<p align="center">Computer Science Student @ Northeastern | Full-Stack Developer | AI & Data Visualization Enthusiast</p>
 
 ---
 
 ### 📫 Contact Me
 - Email: edisonchen@example.com  
 - LinkedIn: [linkedin.com/in/edisonchen](https://www.linkedin.com/in/edisonchen)  
-- Portfolio / Projects: [YOUR_PORTFOLIO_LINK]  
+<>(- Portfolio / Projects: [YOUR_PORTFOLIO_LINK]  )
 
 ---
 
@@ -39,13 +39,13 @@
 
 ---
 
-### 📈 GitHub Stats
+<>(### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical"/>
 </p>
 
----
+---)
 
 ### 🌱 Fun Fact
 I love building AI-driven tools and interactive web apps that help people solve real-world problems. From climate resiliency to journaling platforms, I enjoy making data useful and accessible.  
