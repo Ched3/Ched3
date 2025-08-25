@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="YOUR_HEADSHOT_URL" alt="Edison Chen" width="150"/>
-</p>
+
 
 <h1 align="center">Hi, I'm Edison Chen 👋</h1>
 <p align="center">Computer Science Student @ Northeastern | Full-Stack Developer | AI & Data Visualization Enthusiast</p>
