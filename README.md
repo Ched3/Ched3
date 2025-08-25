@@ -1,19 +1,51 @@
-Hello
-My name is Edison Chen He/Him. 
-I currently know Python, Javascript, Java, HTML, CSS, SQL, C, Kotlin. 
+<p align="center">
+  <img src="YOUR_HEADSHOT_URL" alt="Edison Chen" width="150"/>
+</p>
 
+<h1 align="center">Hi, I'm Edison Chen 👋</h1>
+<p align="center">Computer Science & Economics Student | Full-Stack Developer | AI & Data Visualization Enthusiast</p>
 
-<!--
-**Ched3/Ched3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📫 Contact Me
+- Email: edisonchen@example.com  
+- LinkedIn: [linkedin.com/in/edisonchen](https://www.linkedin.com/in/edisonchen)  
+- Portfolio / Projects: [YOUR_PORTFOLIO_LINK]  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Featured Projects
+<p align="center">
+  <a href="https://github.com/yourusername/Wynnguessr">Wynnguessr</a> • 
+  <a href="https://github.com/yourusername/ThriveAssist">ThriveAssist</a> • 
+  <a href="https://github.com/yourusername/EcoVision">EcoVision</a> • 
+  <a href="https://github.com/yourusername/BrushableScatterPlot">Brushable ScatterPlot</a>
+</p>
+
+---
+
+### 🛠 Technology & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical"/>
+</p>
+
+---
+
+### 🌱 Fun Fact
+I love building AI-driven tools and interactive web apps that help people solve real-world problems. From climate resiliency to journaling platforms, I enjoy making data useful and accessible.  
