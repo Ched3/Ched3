@@ -7,7 +7,7 @@
 
 ### 📫 Contact Me
 - Email: edisonqiwuchen@gmail.com  
-- LinkedIn: [linkedin.com/in/edisonchen](https://www.linkedin.com/in/edisonchen)  
+- LinkedIn: [linkedin.com/in/edisonqchen](https://www.linkedin.com/in/edisonqchen)  
 
 ---
 
