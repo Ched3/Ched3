@@ -13,10 +13,10 @@
 
 ### 💻 Featured Projects
 <p align="center">
-  <a href="https://github.com/yourusername/Wynnguessr">Wynnguessr</a> • 
-  <a href="https://github.com/yourusername/ThriveAssist">ThriveAssist</a> • 
-  <a href="https://github.com/yourusername/EcoVision">EcoVision</a> • 
-  <a href="https://github.com/yourusername/BrushableScatterPlot">Brushable ScatterPlot</a>
+  <a href="https://github.com/Ched3/Wynnguessr">Wynnguessr</a> • 
+  <a href="https://github.com/Ched3/ThriveAssist">ThriveAssist</a> • 
+  <a href="https://github.com/Ched3/EcoVision">EcoVision</a> • 
+  <a href="https://github.com/Ched3/D3-Researcher-Visualization">Brushable ScatterPlot</a>
 </p>
 
 ---
