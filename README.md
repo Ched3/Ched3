@@ -6,7 +6,7 @@
 ---
 
 ### 📫 Contact Me
-- Email: edisonchen@example.com  
+- Email: edisonqiwuchen@gmail.com  
 - LinkedIn: [linkedin.com/in/edisonchen](https://www.linkedin.com/in/edisonchen)  
 
 ---
